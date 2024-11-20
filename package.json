@@ -1,0 +1,16 @@
+{
+  "name": "eduwork",
+  "version": "1.0.0",
+  "description": "TugasTesting_Tokopedia",
+  "main": "index.js",
+  "author": "Bimo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.3.0",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "15.1.1",
+    "@cypress/browserify-preprocessor": "^3.0.2"
+  }
+}
